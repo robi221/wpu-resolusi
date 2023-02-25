@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Robi dari Jakarta
+
+Resolusi saya;
+- Membuat website menggunakan framework javascript Next.js
+- Belajar agile
+- Belajar lira
